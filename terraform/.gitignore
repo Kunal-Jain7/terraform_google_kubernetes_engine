@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terraform/*
+**/*.tfstate
+**/*.tfstate.*
+terraform.tfstate
+keys.json
+.DS_Store
